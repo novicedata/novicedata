@@ -6,7 +6,7 @@
 <br/>
 
 <h3 align="center"><b> 📌 Main </b></h3>
-  <a href="Notyet" target="_blank"><img src="https://img.shields.io/badge/Study-3776AB?style=flat-square&logo=Bookstack&logoColor=white"/></a>
+  <a href="https://github.com/novicedata/Study/tree/main" target="_blank"><img src="https://img.shields.io/badge/Study-3776AB?style=flat-square&logo=Bookstack&logoColor=white"/></a>
 
   <a href="https://github.com/novicedata/Paper" target="_blank"><img src="https://img.shields.io/badge/Paper-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
   <a href="https://github.com/novicedata/Conference" target="_blank"><img src="https://img.shields.io/badge/Conference-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
