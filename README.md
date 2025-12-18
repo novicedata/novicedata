@@ -1,7 +1,7 @@
 <div align=center>
 <br>
   
-![header](https://capsule-render.vercel.app/api?type=rect&text=NOVICEDATA&fontAlign=50&fontAlignY=35&fontSize=40&desc=공사중&descAlignY=70&descAlign=50&theme=default)
+![header](https://capsule-render.vercel.app/api?type=rect&text=NOVICEDATA&fontAlign=50&fontAlignY=35&fontSize=40&desc=업데이트중&descAlignY=70&descAlign=50&theme=default)
 
 <br/>
 
@@ -9,10 +9,10 @@
   <a href="https://github.com/novicedata/Study/tree/main" target="_blank"><img src="https://img.shields.io/badge/Study-3776AB?style=flat-square&logo=Bookstack&logoColor=white"/></a>
 
   <a href="https://github.com/novicedata/Paper" target="_blank"><img src="https://img.shields.io/badge/Paper-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-  <a href="https://github.com/novicedata/Conference" target="_blank"><img src="https://img.shields.io/badge/Conference-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+<!--  <a href="https://github.com/novicedata/Conference" target="_blank"><img src="https://img.shields.io/badge/Conference-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> -->
   <a href="https://github.com/novicedata/Projects" target="_blank"><img src="https://img.shields.io/badge/Projects-FFFFFF?style=flat-square&logo=reasonstudios&logoColor=red"/></a>
 
-  <a href="Notyet" target="_blank"><img src="https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=googledocs&logoColor=white"/></a>
+<!--  <a href="Notyet" target="_blank"><img src="https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=googledocs&logoColor=white"/></a> -->
   <a href="https://datanovice.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-EA4335?style=flat-square&logo=tistory&logoColor=white"/></a>
 <br>
 
