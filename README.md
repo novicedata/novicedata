@@ -1,7 +1,8 @@
 <div align=center>
 <br>
 
-![rounded](https://capsule-render.vercel.app/api?type=rounded&color=timeAuto&text=NoviceData%&fontAlignY=50&fontSize=40&height=100&stroke=000000&strokeWidth=0.5)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=NoviceData&fontAlign=30&fontAlignY=40&color=timeAuto)
+
 
 
 <h1>!!⚠️수정중⚠️!!</h1>
