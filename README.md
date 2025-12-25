@@ -1,7 +1,7 @@
 <div align=center>
 <br>
 
-![rounded](https://capsule-render.vercel.app/api?type=rounded&color=timeAuto&text=NoviceData%&fontAlignY=50&fontSize=40&height=200&stroke=000000&strokeWidth=2)
+![rounded](https://capsule-render.vercel.app/api?type=rounded&color=timeAuto&text=NoviceData%&fontAlignY=50&fontSize=40&height=100&stroke=000000&strokeWidth=0.5)
 
 
 <h1>!!⚠️수정중⚠️!!</h1>
