@@ -9,7 +9,11 @@
 
 <div align='left'>
 <h2> ☺️ About Me </h2>
-<h> 수 너머를 분석하는 데이터 분석가 신연우입니다. </h>
+<h> 수 너머를 분석하는 데이터 분석가 신연우입니다. <br></br> </h>
+  
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:sinjinyoung987@gmail.com) <a href="https://datanovice.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-EA4335?style=flat-square&logo=tistory&logoColor=white"/></a>
+<br/>
+
 <br/>
 
 <h2><b> 📌 Paper/Conference </b></h2>
@@ -58,12 +62,7 @@
 
   <a href="https://github.com/novicedata/Study/tree/main" target="_blank"><img src="https://img.shields.io/badge/Study-3776AB?style=flat-square&logo=Bookstack&logoColor=white"/></a>
 
-  <a href="https://github.com/novicedata/Paper" target="_blank"><img src="https://img.shields.io/badge/Paper-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-<!--  <a href="https://github.com/novicedata/Conference" target="_blank"><img src="https://img.shields.io/badge/Conference-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> -->
-  <a href="https://github.com/novicedata/Projects" target="_blank"><img src="https://img.shields.io/badge/Projects-FFFFFF?style=flat-square&logo=reasonstudios&logoColor=red"/></a>
-
 <!--  <a href="Notyet" target="_blank"><img src="https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=googledocs&logoColor=white"/></a> -->
-  <a href="https://datanovice.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-EA4335?style=flat-square&logo=tistory&logoColor=white"/></a>
 <br>
 
 <br/>
@@ -84,11 +83,6 @@
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](https://www.mysql.com/)
 <br/><br/>
 
-
-`contact`
-<br/><br/>
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:sinjinyoung987@gmail.com)
-<br/><br/>
 
 <div align="center">
  <h3><b> 🎄 Github Stats 🎄 </b></h3>
