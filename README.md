@@ -14,7 +14,7 @@
   <summary> 📑 Paper </summary>
 <h3> 논문(학위 논문 제외) </h3>
 
-[전체 링크](https://github.com/novicedata/Paper/tree/main)
+[논문 전체 링크](https://github.com/novicedata/Paper/tree/main)
 
 |제목|저자|내용|역할|링크|
 |---|---|---|---|---|
@@ -26,6 +26,26 @@
 <details>
   <summary> 📊 Conference </summary>
 </details>
+
+<h2><b> 📌 Projects </b></h2>
+
+[프로젝트 전체 링크](https://github.com/novicedata/Projects)
+
+<details>
+  <summary> 🗂️ Team </summary>
+
+|기간|내용|주최|인원|역할|결과|링크|
+|---|---|---|---|---|---|---|
+|25.06.15-25.07.18|학교안전사고 데이터 분석 및 활용 경진 대회|학교안전공제중앙회|2인|데이터 분석 전체 담당|최종 5위|[School_Safety](https://github.com/novicedata/Projects/tree/main/School_Safety)|
+|24.07.01-24.08.30|LG Aimers 5th: 제품 이상 여부 판별 과제|LG AI 연구원|5명|데이터 전처리, 모델링|상위 6%|[LG Aimers 5th](https://github.com/novicedata/Projects/tree/main/LG_Aimers_5th)|
+
+  
+</details>
+
+<details>
+  <summary> 📊 Conference </summary>
+</details>
+
   <a href="https://github.com/novicedata/Study/tree/main" target="_blank"><img src="https://img.shields.io/badge/Study-3776AB?style=flat-square&logo=Bookstack&logoColor=white"/></a>
 
   <a href="https://github.com/novicedata/Paper" target="_blank"><img src="https://img.shields.io/badge/Paper-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
