@@ -1,7 +1,10 @@
 <div align=center>
 <br>
-  
-![header](https://capsule-render.vercel.app/api?type=rect&text=NOVICEDATA&fontAlign=50&fontAlignY=35&fontSize=40&descAlignY=70&descAlign=50&theme=default)
+
+![rounded](https://capsule-render.vercel.app/api?type=rounded&color=timeAuto&text=NoviceData%&fontAlignY=50&fontSize=40&height=200&stroke=000000&strokeWidth=2)
+
+
+<h1>!!⚠️수정중⚠️!!</h1>
 
 <div align='left'>
 <h2> ☺️ About Me </h2>
