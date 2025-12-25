@@ -1,11 +1,31 @@
 <div align=center>
 <br>
   
-![header](https://capsule-render.vercel.app/api?type=rect&text=NOVICEDATA&fontAlign=50&fontAlignY=35&fontSize=40&desc=업데이트중&descAlignY=70&descAlign=50&theme=default)
+![header](https://capsule-render.vercel.app/api?type=rect&text=NOVICEDATA&fontAlign=50&fontAlignY=35&fontSize=40&descAlignY=70&descAlign=50&theme=default)
 
+<div align='left'>
+<h2> ☺️ About Me </h2>
+<h> 수 너머를 분석하는 데이터 분석가 신연우입니다. </h>
 <br/>
 
-<h3 align="center"><b> 📌 Main </b></h3>
+<h2><b> 📌 Paper/Conference </b></h2>
+
+<details>
+  <summary> 📑 Paper </summary>
+<h3> 논문(학위 논문 제외) </h3>
+
+[전체 링크](https://github.com/novicedata/Paper/tree/main)
+
+|제목|저자|내용|역할|링크|
+|---|---|---|---|---|
+|Grove: A Novel Ensemble-Based Computerized Adaptive Testing Model Using Boosting Tree Subsets|[Yeonwoo Shin], [Taehun Lee], [Chanho Park]|Introduces a novel adaptive testing algorithm that decomposes boosting models into individual trees to create subgroups for item selection.|Building Algorithm, Validity analysis|[Link](https://github.com/novicedata/Paper/tree/main/Grove_CAT)|
+|MZ세대 공무원의 이직의도 분석: RuleFit 기반 설명가능 인공지능(XAI)를 중심으로|신연우, 김진영, 이태헌|MZ세대 공무원의 이직의도를 예측하고 그 결정요인을 심층적으로 분석하기 위해 설명가능 인공지능(Explainable AI, XAI) 기법인 RuleFit을 활용 분석|데이터 전처리, 데이터 분석, 모델링, 결과 해석|[링크](https://github.com/novicedata/Paper/tree/main/MZ_turnover)|
+  
+</details>
+
+<details>
+  <summary> 📊 Conference </summary>
+</details>
   <a href="https://github.com/novicedata/Study/tree/main" target="_blank"><img src="https://img.shields.io/badge/Study-3776AB?style=flat-square&logo=Bookstack&logoColor=white"/></a>
 
   <a href="https://github.com/novicedata/Paper" target="_blank"><img src="https://img.shields.io/badge/Paper-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
