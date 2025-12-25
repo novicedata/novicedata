@@ -32,7 +32,7 @@
 [프로젝트 전체 링크](https://github.com/novicedata/Projects)
 
 <details>
-  <summary> 🗂️ Team </summary>
+  <summary> 🗂️ Team Projects </summary>
 
 |기간|내용|주최|인원|역할|결과|링크|
 |---|---|---|---|---|---|---|
@@ -43,7 +43,13 @@
 </details>
 
 <details>
-  <summary> 📊 Conference </summary>
+  <summary> 👨‍🔬 Side(Personal) Projects </summary>
+
+|기간|내용|메인스킬|링크|
+|---|---|---|---|
+|25.11 - 25.11|고객 이탈 분석|Classification/XAI|(Churn)[https://github.com/novicedata/Projects/tree/main/Churn]|
+
+
 </details>
 
   <a href="https://github.com/novicedata/Study/tree/main" target="_blank"><img src="https://img.shields.io/badge/Study-3776AB?style=flat-square&logo=Bookstack&logoColor=white"/></a>
