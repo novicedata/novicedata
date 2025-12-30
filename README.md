@@ -60,7 +60,7 @@
 
 |기간|내용|메인스킬|링크|
 |---|---|---|---|
-|25.11 - 25.11|고객 이탈 분석|Classification/XAI|(Churn)[https://github.com/novicedata/Projects/tree/main/Churn]|
+|25.11 - 25.11|고객 이탈 분석|Classification/XAI|[Churn](https://github.com/novicedata/Projects/tree/main/Churn)|
 
 
 </details>
