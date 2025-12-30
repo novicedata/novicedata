@@ -67,20 +67,20 @@
 
 <br/>
 
-<h3 align="center"><b> 💻 Tech Stack </b></h3>
+<h2> 💻 Tech Stacks </h2>
 
 <br/><br/>
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)](https://pytorch.org/)
-<br/>
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
 [![ScikitLearn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-<br/>
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)](https://jupyter.org/)
-<br/>
 [![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white)](https://www.r-project.org/)
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=polestar&logoColor=white)](https://www.tableau.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](https://www.mysql.com/)
+[![Redash](https://img.shields.io/badge/Redash-FF7964?style=flat-square&logo=Redash&logoColor=white)](https://redash.io/)
+[![Power BI](https://img.shields.io/badge/Power%20BI-8A2BE2)](https://app.powerbi.com/singleSignOn?ru=https%3A%2F%2Fapp.powerbi.com%2Fhome%3FnoSignUpCheck%3D1)
+
 <br/><br/>
 
 
