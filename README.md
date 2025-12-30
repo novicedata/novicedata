@@ -14,6 +14,9 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:sinjinyoung987@gmail.com) <a href="https://datanovice.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-EA4335?style=flat-square&logo=tistory&logoColor=white"/></a>
 <br/>
 
+<h3><a href="https://github.com/novicedata/Resume">👉 📃 Resume 👈</a></h3>
+<h3><a href="https://github.com/novicedata/Study">👉 📚 Study 👈</a></h3>
+
 <br/>
 
 <h2><b> 📌 Paper/Conference </b></h2>
@@ -34,6 +37,8 @@
 <details>
   <summary> 📊 Conference </summary>
 </details>
+
+<br>
 
 <h2><b> 📌 Projects </b></h2>
 
@@ -60,16 +65,10 @@
 
 </details>
 
-  <a href="https://github.com/novicedata/Study/tree/main" target="_blank"><img src="https://img.shields.io/badge/Study-3776AB?style=flat-square&logo=Bookstack&logoColor=white"/></a>
-
-<!--  <a href="Notyet" target="_blank"><img src="https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=googledocs&logoColor=white"/></a> -->
 <br>
-
-<br/>
 
 <h2> 💻 Tech Stacks </h2>
 
-<br/><br/>
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)](https://pytorch.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
