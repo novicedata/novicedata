@@ -65,6 +65,7 @@
 
 |기간|내용|주최|인원|역할|결과|링크|
 |---|---|---|---|---|---|---|
+|25.12.01-26.01.09|한화 미래금융 인재 공모전|한화 생명|3인|데이터 수집 및 전처리, 개인화 맞춤 모델 생성, 아키텍쳐 파이프라인 생성, 데이터 베이스 관리|진행중|[Hanwha_Future_Talent](https://github.com/novicedata/Projects/tree/main/Hanwha_Future_Talent)|
 |25.06.15-25.07.18|학교안전사고 데이터 분석 및 활용 경진 대회|학교안전공제중앙회|2인|데이터 분석 전체 담당|최종 5위|[School_Safety](https://github.com/novicedata/Projects/tree/main/School_Safety)|
 |24.07.01-24.08.30|LG Aimers 5th: 제품 이상 여부 판별 과제|LG AI 연구원|5명|데이터 전처리, 모델링|상위 6%|[LG Aimers 5th](https://github.com/novicedata/Projects/tree/main/LG_Aimers_5th)|
 
