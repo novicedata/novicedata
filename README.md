@@ -22,7 +22,7 @@
 <h2><b> 📌 Paper/Conference </b></h2>
 
 <details>
-  <summary> 📑 Paper </summary>
+  <summary>  📑 Paper </summary>
 <h3> 논문(학위 논문 제외) </h3>
 
 [논문 전체 링크](https://github.com/novicedata/Paper/tree/main)
