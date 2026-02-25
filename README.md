@@ -73,11 +73,12 @@
 </details>
 
 <details>
-  <summary> 👨‍🔬 Side(Personal) Projects </summary>
+  <summary> 👨‍🔬 Side Projects & Practice </summary>
 
-|기간|내용|메인스킬|링크|
+|기간|대분류 및 내용|메인스킬|링크|
 |---|---|---|---|
-|25.11 - 25.11|고객 이탈 분석|Classification/XAI|[Churn](https://github.com/novicedata/Projects/tree/main/Churn)|
+| - |고객 이탈 분석|Python[분류, XAI]|[Churn](https://github.com/novicedata/Projects/tree/main/Churn)|
+| - |인스타 팔로워, 좋아요 분석|Python[회귀, 상관], Tableau|[Churn](https://github.com/novicedata/Projects/tree/main/Churn)|
 
 
 </details>
