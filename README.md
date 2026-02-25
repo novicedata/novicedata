@@ -79,6 +79,7 @@
 |---|---|---|---|
 | - |[Practice] 고객 이탈 분석|Python[분류, XAI]|[Churn](https://github.com/novicedata/Projects/tree/main/Churn)|
 | - |[Practice] 인스타 팔로워, 좋아요 분석|Python[회귀, 상관], Tableau|[Followers](https://github.com/novicedata/Projects/tree/main/Followers)|
+| - |[Practice] BTS vs BLACKPINK youtube 조회수 분석|Python[단순 비교], Google API|[Kpop](https://github.com/novicedata/Projects/tree/main/Kpop)|
 
 
 </details>
