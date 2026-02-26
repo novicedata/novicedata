@@ -4,9 +4,6 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=NoviceData&fontAlign=30&fontAlignY=40&color=timeAuto)
 
 
-
-<h1>!!⚠️수정중⚠️!!</h1>
-
 <div align='left'>
 <h2> ☺️ About Me </h2>
 <h> 수 너머를 분석하는 데이터 분석가 신연우입니다. <br></br> </h>
@@ -77,6 +74,8 @@
 
 |기간|대분류 및 내용|메인스킬|링크|
 |---|---|---|---|
+| - |[Side] 구매 데이터 활용 매출 상승 전략 프로젝트|Python[클러스터링, 프로파일링, 분류], Excel[시각화]|[VVIP](https://github.com/novicedata/Projects/tree/main/VVIP)|
+| - |[Side] 택시 콜수요초과LV 분|Python[EDA, h3index] Excel[시각화], SQL[Data Handling]|[O2O](https://github.com/novicedata/Projects/tree/main/O2O)|
 | - |[Practice] 고객 이탈 분석|Python[분류, XAI]|[Churn](https://github.com/novicedata/Projects/tree/main/Churn)|
 | - |[Practice] 인스타 팔로워, 좋아요 분석|Python[회귀, 상관], Tableau|[Followers](https://github.com/novicedata/Projects/tree/main/Followers)|
 | - |[Practice] BTS vs BLACKPINK youtube 조회수 분석|Python[단순 비교], Google API|[Kpop](https://github.com/novicedata/Projects/tree/main/Kpop)|
@@ -97,7 +96,7 @@
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=polestar&logoColor=white)](https://www.tableau.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](https://www.mysql.com/)
 [![Redash](https://img.shields.io/badge/Redash-FF7964?style=flat-square&logo=Redash&logoColor=white)](https://redash.io/)
-[![Power BI](https://img.shields.io/badge/Power%20BI-8A2BE2)](https://app.powerbi.com/singleSignOn?ru=https%3A%2F%2Fapp.powerbi.com%2Fhome%3FnoSignUpCheck%3D1)
+<!-- [![Power BI](https://img.shields.io/badge/Power%20BI-8A2BE2)](https://app.powerbi.com/singleSignOn?ru=https%3A%2F%2Fapp.powerbi.com%2Fhome%3FnoSignUpCheck%3D1) -->
 
 <br/><br/>
 
