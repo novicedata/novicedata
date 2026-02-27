@@ -74,7 +74,7 @@
 
 |기간|대분류 및 내용|메인스킬|링크|
 |---|---|---|---|
-| - |[Side] 구매 데이터 활용 매출 상승 전략 프로젝트|Python[클러스터링, 프로파일링, 분류], Excel[시각화]|[VVIP](https://github.com/novicedata/Projects/tree/main/VVIP)|
+| - |[Side] 구매 데이터 활용 매출 상승 전략 프로젝트|Python[클러스터링, 프로파일링, 분류, 연광성 분석], Excel[시각화]|[VVIP](https://github.com/novicedata/Projects/tree/main/VVIP)|
 | - |[Side] 택시 콜수요초과LV 분석|Python[EDA, h3index] Excel[시각화], SQL[Data Handling]|[O2O](https://github.com/novicedata/Projects/tree/main/O2O)|
 | - |[Practice] 고객 이탈 분석|Python[분류, XAI]|[Churn](https://github.com/novicedata/Projects/tree/main/Churn)|
 | - |[Practice] 인스타 팔로워, 좋아요 분석|Python[회귀, 상관], Tableau|[Followers](https://github.com/novicedata/Projects/tree/main/Followers)|
