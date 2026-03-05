@@ -19,7 +19,7 @@
 <h2><b> 📌 Paper/Conference </b></h2>
 
 <details>
-  <summary>  📑 Paper </summary>
+  <summary>  <h3> 📑 Paper </h3> </summary>
 <h3> 논문(학위 논문 제외) </h3>
 
 [논문 전체 링크](https://github.com/novicedata/Paper/tree/main)
@@ -32,7 +32,7 @@
 </details>
 
 <details>
-  <summary> 📊 Conference </summary>
+  <summary> <h3> 📊 Conference </h3> </summary>
 <h3> 학회 연구 </h3>
 
 [연구 전체 링크](https://github.com/novicedata/Conference)
@@ -58,7 +58,7 @@
 [프로젝트 전체 링크](https://github.com/novicedata/Projects)
 
 <details>
-  <summary> 🗂️ Team Projects </summary>
+  <summary> <h3> 🗂️ Team Projects </h3> </summary>
 
 |기간|내용|주최|인원|역할|결과|링크|
 |---|---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 </details>
 
 <details>
-  <summary> 👨‍🔬 Side Projects & Practice </summary>
+  <summary> <h3> 👨‍🔬 Side Projects & Practice </h3> </summary>
 
 |기간|대분류 및 내용|메인스킬|링크|
 |---|---|---|---|
