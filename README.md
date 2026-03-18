@@ -6,7 +6,7 @@
 
 <div align='left'>
 <h2> ☺️ About Me </h2>
-<h> 수 너머를 분석하는 데이터 분석가 신연우입니다. <br></br> </h>
+<h> 모델 디자인 경험이 있는 데이터 모델러 및 분석가 신연우입니다. <br></br> </h>
   
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:sinjinyoung987@gmail.com) <a href="https://datanovice.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-EA4335?style=flat-square&logo=tistory&logoColor=white"/></a>
 <br/>
